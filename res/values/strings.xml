@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">SEO Pro Lite - No Ads</string>
+
+
+    <string name="url_suggestions_string">
+        A site using "https" as a scheme/protcol other than "http" is more secured as compared to that of http.\n
+        Site with "https" has a SSL Certification.\n\n
+        In a real time environment, Google the <b>Search Engine</b> determines the Websites based on such a scheme and categorised them for priority in ranking on the <b>Search Engine Results Page.</b>\n\n
+        Your site address shouldn\'t be made up of a mix of random characters.\n\n
+        Provide the address with slashes like a structured and designed directory path as in the following example:\n\t\thttps://mkyong.com/java/jsoup-get-favicon-from-html-page/\n\n
+        What you should know is that each and every link/path URL to every <b>static/dynamic</b> page of your website should be a "designed &amp; architected" string of text.\n\n
+        You should not forget that the crawlers are going to identify the page content through these sub-directories, or categories separated by slashes.\n\n
+        Poorly designed web url architecture have a poor website ranking.
+    </string>
+    <string name="html_suggestions_string">In a HTML source code, the Most Important HTML Tags for SEO include the following.\n
+    1. <b><i>Title tag</i></b>\n
+    2. <b><i>Meta description tag</i></b>\n
+    3. <b><i>Heading (H1-H6) tags</i></b>\n
+    4. <b><i>Image alt text</i></b>\n
+    5. <b><i>Schema markup</i></b>\n
+    6. <b><i>HTML5 semantic tags</i></b>\n
+    7. <b><i>Meta robots tag</i></b>\n
+    8. <b><i>Canonical tag</i></b>\n\n\n
+
+        Here, Canonical tag spares you from the risk of duplicate content.\nRobots meta tag is all about the rules of engagement between the websites and the search engines.\n
+        HTML5 elements are used for better descriptions of various page components.\nSchema markup is used to enhance regular SERP snippets with rich snippet features.\n\n
+        While the main goal of alt text is web accessibility, the SEO goal of the alt attribute is image indexing.\nThe key goal of image alt text is to help users understand the image when it cannot be viewed, say, by a visitor who is vision impaired. In this instance, along with times when, say, there’s a problem and the image won’t load, the alt text can be used to describe what’s in the image, instead of viewing it.\n
+        \tFrom an SEO perspective, alt text is a big part of how images are indexed in Google search. So if there is a visual component to what you do - be it the images of your products, your work, your stock images, your art - then you should definitely consider using image alt texts.\n\n
+        Heading tags are used to structure your pages for both the reader and search engines.\n
+        <u>Recommended:</u> \n\t\t- Use &lt;h1&gt; only once. Multiple &lt;h1&gt; headers on a page is not recommended.\n\t\t- Header tags from &lt;h2&gt; to &lt;h6&gt; can be used multiple times.\n\t\t- Recommended form of Header Usage: <b><u>Nested Type</u></b>\n\n
+        Meta description tags are used to set up descriptions within search result snippets.\n\n
+        Title tags are used to set up those clickable headlines that you see in the SERP.
+
+
+
+    </string>
+    <string name="title_suggestions_string">
+        Use the SEO KRT(Keyword Research Tool).\n\n\t- Title Plays a vital role in getting more visitors from the Search Engine.\n\t-Place some of your keywords here.\n\t- USE either: <b>Exact Match</b>, <b>Long Tail</b>, or <b>LSI Keywords</b>.\n\n\n
+        <u>Dont\'s in Title Tag:</u>\n
+        \t\ti. <b>Keyword Stuffing</b>.\n\t\tii. <b>Duplication</b>: Don\'t Repeat the Same word in the Title Tag.\n\n\n
+        Add statics and numbers to your titles.\nStudies show that Posts Containing numbers in the titles tend to land higher in the SERPs, which helps them generate a lot more traffic.
+    </string>
+    <string name="headers_suggestion_String"><b><u>Heading (H1-H6) tags</u></b>\n\n\n
+Heading tags are used to structure your pages for both the reader and search engines.\n
+It’s no secret that barely anyone reads through an article anymore - what we generally do instead is we scan the article until we find the section we like, we read that one section, and then we bounce. And if the article isn’t split into sections, then many will bounce right away, because it’s just too much. So, from a user perspective, headings are handy reading aids.
+
+From the perspective of the search engine, however, heading tags form the core of the content, and help search crawler bots understand what the page is about. \n\n
+        <u>The rules for headings are derived from the general copywriting practices - break your copy into bite-sized pieces and maintain consistent formatting:</u>\n
+        <b><i>Don’t use more than one H1</i></b> - H1 heading stands apart from other headings because it’s treated by search engines as the title of the page. Not to be confused with the title tag - the title tag is displayed in search results, while the H1 tag is displayed on your website.\n
+        <b><i>Maintain shallow structure</i></b> - There’s rarely a need to go below H3. Use H1 for the title, H2 for section headings, and H3 for subsections. Anything more tends to get confusing.\n
+        <b><i>Form query-like headings</i></b> - Treat each heading as an additional opportunity to rank in search. To this end, each heading should sound either like a query or an answer to a query - keywords included.\n
+        <b><i>Be consistent with all headings</i></b> - All of your headings should be written in such a way that if you were to remove all the text and keep only the headings, they would read like a list.\n
+
+    </string>
+    <string name="body_string">
+        <b>Longer Content</b> generally ranks higher than shorter content.\n\ti.e., Longer Content = Detailed Content, which is equal to better answers for users.\n\n
+        In a HTML source code, the Most Important HTML Tags for SEO include the following.\n
+    1. <b><i>Title tag</i></b>\n
+    2. <b><i>Meta description tag</i></b>\n
+    3. <b><i>Heading (H1-H6) tags</i></b>\n
+    4. <b><i>Image alt text</i></b>\n
+    5. <b><i>Schema markup</i></b>\n
+    6. <b><i>HTML5 semantic tags</i></b>\n
+    7. <b><i>Meta robots tag</i></b>\n
+    8. <b><i>Canonical tag</i></b>\n\n\n
+
+        Here, Canonical tag spares you from the risk of duplicate content.\nRobots meta tag is all about the rules of engagement between the websites and the search engines.\n
+        HTML5 elements are used for better descriptions of various page components.\nSchema markup is used to enhance regular SERP snippets with rich snippet features.\n\n
+        While the main goal of alt text is web accessibility, the SEO goal of the alt attribute is image indexing.\nThe key goal of image alt text is to help users understand the image when it cannot be viewed, say, by a visitor who is vision impaired. In this instance, along with times when, say, there’s a problem and the image won’t load, the alt text can be used to describe what’s in the image, instead of viewing it.\n
+        \tFrom an SEO perspective, alt text is a big part of how images are indexed in Google search. So if there is a visual component to what you do - be it the images of your products, your work, your stock images, your art - then you should definitely consider using image alt texts.\n\n
+        Heading tags are used to structure your pages for both the reader and search engines.\n
+        <u>Recommended:</u> \n\t\t- Use &lt;h1&gt; only once. Multiple &lt;h1&gt; headers on a page is not recommended.\n\t\t- Header tags from &lt;h2&gt; to &lt;h6&gt; can be used multiple times.\n\t\t- Recommended form of Header Usage: <b><u>Nested Type</u></b>\n\n
+        Meta description tags are used to set up descriptions within search result snippets.\n\n
+        Title tags are used to set up those clickable headlines that you see in the SERP.
+
+    </string>
+    <string name="href_reports_links_suggestions">
+        1. Determine the ideal structure for your site.\n\n
+        2. Decide what your most important content is.\n\n
+        3. Add contextual links.\n
+        <u>Contextual linking: an example
+On our blog, there’s a cornerstone content article called ‘The ultimate guide to keyword research’. This post will rank for all related search queries about [keyword research] in Google search results.</u>\n\n
+        4. Link hierarchical pages.\n\n
+        5. Consider adding a related post section.\n\n
+        6. Try adding navigational links.\n\n
+        7. Add links to your taxonomies.\n\n
+        8. Consider adding links to popular or recent posts.\n\n
+        \n<b></b>
+
+
+    </string>
+    <string name="img_suggestions">
+        1. Include the <b>Alt</b> Attribute in the &lt;img&gt; tag.\n
+        2. If not necessary, then consider compress the size or make the resolution lesser.
+        \tThe size of the image matters in Page Load Time.\nIf you have a site that contains a lot of images with high resolution, consider the process i\'ve mentioned.\n\n
+        <u>If the page takes too much time in completion of Loading, then the user will try to go back, i.e. skip the site. </u>
+    </string>
+    <string name="keywords_suggestions">
+        <b><u>Elements of Keyword Research</u></b>\n\n
+        There are three main elements to pay attention to when conducting keyword research.\n
+        <b><i>1. Relevance</i></b>:  Google ranks content for relevance. This is where the concept of search intent comes in. Your content will only rank for a keyword if it meets the searchers\' needs. In addition, your content must be the best resource out there for the query. After all, why would Google rank your content higher if it provides less value than other content that exists on the web\?\n
+        <b><i>2. Authority</i></b>:   Google will provide more weight to sources it deems authoritative. That means you must do all you can to become an authoritative source by enriching your site with helpful, information content and promoting that content to earn social signals and backlinks. If you\'re not seen as authoritative in the space, or if a keyword\'s SERPs are loaded with heavy sources you can\'t compete with (like Forbes or The Mayo Clinic), you have a lower chance of ranking unless your content is exceptional.\n
+        <b><i>3. Volume</i></b>:   You may end up ranking on the first page for a specific keyword, but if no one ever searches for it, it will not result in traffic to your site. Kind of like setting up shop in a ghost town.\nVolume is measured by MSV (monthly search volume), which means the number of times the keyword is searched per month across all audiences.\n\n
+    </string>
+    <string name="meta_Description_tag_suggestions">A meta description should include <b>a compelling summary of the page someone is about to click on</b>. It should clearly tell them what they\'ll gain by clicking through. Meta descriptions should include a target keyword to help search engines index and rank the page.</string>
+    <string name="meta_keywords_suggestions">Meta Keywords help tell search engines what the topic of the page is. Meta keywords are distinguished from regular keywords because they appear “behind the scenes,” in the source code of your page, rather than on the live, visible page itself. \n\n
+    So, if you\'ve important keyword(s) that states/represents what your webpage content is about, add in this tag.\n
+        But its important that you place only the relevant keywords because otherwise the on boarding visitors will Land Off from the page as soon as they land on, which is not a good thing.\n
+    </string>
+    <string name="meta_author_suggestions">
+        Author meta-tag is used to name the author of the page.\n
+        Must include if you need to specify the Author of the content creator.
+    </string>
+    <string name="meta_viewport_suggestions">
+        Google says that the “presence of this tag indicates to Google that the page is mobile-friendly.”
+        This matters because <u>Google ranks mobile-friendly web pages higher in mobile search results</u>.
+        \n\nSo, its a must that you include this viewport meta tag.
+    </string>
+    <string name="meta_robots_suggestions">
+The meta robots tag tells search engines if and how they should crawl your web pages.\n<b>Why it’s important for SEO</b>\?\n
+        Using the wrong attributes in the meta robots tag can have a catastrophic impact on your site’s presence in the search results. Your SEO efforts rely on you understanding this tag and using it effectively.\n\n
+        With that in mind, here are the values you can use in this tag:\n
+        \t\t<b>index</b>: tells bots to index the page;\n
+\t\t<b>noindex</b>: tells bots not to index the page;\n
+\t\t<b>follow</b>: tells bots to crawl links on the page, and that you also vouch for them;\n
+\t\t<b>nofollow</b>: tells bots not to crawl links on the page, and that no endorsement is implied.\n\n\n
+        You can combine these in any of the following ways:\n
+        <i>&lt;meta name=”robots” content="noindex, nofollow"&gt;\n
+&lt;meta name=”robots” content="index, follow"&gt;\n
+&lt;meta name=”robots” content="noindex, follow"&gt;\n
+&lt;meta name=”robots” content="index, nofollow"&gt;\n</i>\n\n
+        You can also use &lt;meta name=”robots” content="none"&gt;, which is the same as noindex, nofollow. Not setting a meta robots tag is also equivalent to index, follow.\n\n
+        \n\n<b><u>Best practices</u></b>\n
+\t\t- Use meta robots tags only when you want to restrict the way Google crawls a page;
+\t\t- Don’t block pages with meta robots tags in robots.txt;
+    </string>
+    <string name="rel_canonical_suggestions">The rel=canonical element, often called the “canonical link,” is an HTML element that helps webmasters prevent duplicate content issues. It does so by specifying the “canonical URL,” the “preferred” version of a web page. Most of the time, this is the source URL. Using canonical URLs improves your site’s SEO.
+    \n\nFor example, the canonical URL for our WordPress SEO article looks like this:\n\n
+
+&lt;link rel="canonical" href="https://yoast.com/wordpress-seo/" /&gt;
+
+
+    </string>
+    <string name="page_favicon_suggestion">Favicons are icons that visually represent a website and/or brand. They’re the small images (usually 16x16 pixels) you see next to page titles in Google\'s mobile search results as well as browser tabs, bookmarks and history. Ideally, a website’s favicon should be the same as the logo for the business.\n\n
+Favicons have no direct impact on search engine optimization or a page\'s ranking in search results. However, Google does display a website\'s favicon when showing a page in mobile search results.\n\n
+        Pages without favicons, or that are using favicons violating Google\'s favicon guidelines, will have a default icon next to the URL instead of the specified icon.\n\n
+        if you don’t have a favicon, Google will see as many 404 errors as you have pages on your website.\n\n
+        Add favicons beyond SEO values.
+    </string>
+
+</resources>
